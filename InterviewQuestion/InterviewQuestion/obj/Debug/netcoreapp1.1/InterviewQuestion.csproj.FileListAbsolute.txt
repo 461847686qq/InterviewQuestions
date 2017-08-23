@@ -1,0 +1,9 @@
+D:\github_projects\InterviewQuestions\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp1.1\InterviewQuestion.deps.json
+D:\github_projects\InterviewQuestions\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp1.1\InterviewQuestion.runtimeconfig.json
+D:\github_projects\InterviewQuestions\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp1.1\InterviewQuestion.runtimeconfig.dev.json
+D:\github_projects\InterviewQuestions\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp1.1\InterviewQuestion.dll
+D:\github_projects\InterviewQuestions\InterviewQuestion\InterviewQuestion\bin\Debug\netcoreapp1.1\InterviewQuestion.pdb
+D:\github_projects\InterviewQuestions\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp1.1\InterviewQuestion.csprojResolveAssemblyReference.cache
+D:\github_projects\InterviewQuestions\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp1.1\InterviewQuestion.AssemblyInfo.cs
+D:\github_projects\InterviewQuestions\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp1.1\InterviewQuestion.dll
+D:\github_projects\InterviewQuestions\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp1.1\InterviewQuestion.pdb
